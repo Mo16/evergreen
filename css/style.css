@@ -1082,6 +1082,10 @@ body {
   opacity: 1; }
 
 /* ====================== [ End Overlay ] ====================== */
+.newfont{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
 /* ====================== [ Start Heading ] ====================== */
 .sec-head {
   position: relative;
@@ -1292,7 +1296,7 @@ body {
   .navbar .icon-bar {
     color: #fff; }
   .navbar .navbar-nav .nav-link {
-    font-size: 12px;
+    font-size: 20px;
     font-weight: 500;
     color: #fff;
     padding: 15px 7px;
@@ -1391,7 +1395,7 @@ body {
         opacity: 1;
         cursor: pointer; }
   .navbar .logo {
-    width: 200px; }
+    width: 300px; }
   .navbar.light .navbar-nav .nav-link {
     color: #0c0f16; }
   .navbar.light .search {
@@ -2098,7 +2102,7 @@ body {
     margin-top: 50px; }
     .freelancer .cont h6 {
       color: #75dab4;
-      font-size: 14px;
+      font-size: 25px;
       font-weight: 300;
       text-transform: uppercase;
       letter-spacing: 5px;
@@ -4622,7 +4626,7 @@ body {
     display: inline-block;
     text-transform: uppercase;
     letter-spacing: 4px;
-    font-size: 13px;
+    font-size: 25px;
     font-weight: 300;
     margin-bottom: 30px; }
   .footer-half .cont .logo {
